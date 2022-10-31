@@ -2,6 +2,15 @@
 
 <h4>This repository hosts the code to replicate the analysis and to reproduce the Shinyapp.</h4>
 
+It contains the following files:
+
+<ol>
+  <li>data_info.txt: basic metadata information and how to obtain the data</li>
+  <li>code_repr.R: R program file to replicate the analysis and the plots</li>
+  <li>Shinyapp: folder with code and material to reproduce the Shinyapp</li>
+</ol>
+
+ 
 
 
 <h3>Authors:</h3>
