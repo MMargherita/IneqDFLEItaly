@@ -1,0 +1,46 @@
+<h2><b>Gender and educational inequalities in disability-free life expectancy among older adults living in Italian regions</b></h2>
+
+<h4>Web application with supplementary materials and interactive visualization of the (additional) results.</h4>
+
+
+
+<h3>Authors:</h3>
+<a href="https://phd.uniroma1.it/web/MARGHERITA-MORETTI_nP1723038_IT.aspx">Margherita Moretti</a>
+<a href="https://twitter.com/MorettiMarg"><img src="./fig_for_shiny/twitter_logo.svg" style="width:20px;height:20px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department of Statistical Sciences and Department of Public Health And Infectious Diseases, Sapienza University of Rome &nbsp;&nbsp; <img src="./fig_for_shiny/Sapienza_logo.svg" alt="sapienza" width="100" height="100"> 
+
+
+<a href="https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_dem/cosmo_strozza">Cosmo Strozza</a>
+<a href="https://twitter.com/CosmoStrozza"><img src="./fig_for_shiny/twitter_logo.svg" style="width:20px;height:20px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interdisciplinary Centre on Population Dynamics, University of Southern Denmark &nbsp;&nbsp; <img src="./fig_for_shiny/SDU_logo.svg" alt="SDU" width="150" height="30"> 
+
+
+<h3>Correspondence:</h3>
+<p><a href="mailto:margherita.moretti@uniroma1.it">margherita.moretti@uniroma1.it</a></p>
+
+
+<h3>Citation and link to the paper</h3>
+Moretti, M. and Strozza, C. (2022). Gender and educational inequalities in disability-free life expectancy among older adults living in Italian regions.  Forthcoming in <i>Demographic Research</i>
+
+
+
+<h3>Github repository</h3>
+<a href="link: https://github.com/MMargherita/IneqDFLEItaly"></a>
+
+
+
+<h3>Abstract</h3>
+<p><b>BACKGROUND</b> Italy ranks among the countries with highest life expectancies at age 65 in Europe but not-so-high disability-free life expectancy (DFLE). To understand this diverging pattern of longevity and health, it is essential to consider indicators accounting for both mortality and morbidity, and to analyse the gender, social and geographical inequities characterizing them.</p>
+
+
+<p><b>OBJECTIVE</b> The aim is to quantify the gender, social and geographical inequalities in DFLE among Italian older adults and analyse the age-specific contribution of mortality and morbidity to those inequalities.</p>
+
+
+<p><b>METHODS</b> This study draws on census-linked mortality data and prevalence of disability pertaining to the years 2012-2014. DFLE at age 65 in Italian regions is computed by gender and educational attainment using the Sullivan method. Age-specific mortality-morbidity contributions to the gender and educational gaps in DFLE are calculated using the Stepwise decomposition method.</p>
+
+
+<p><b>RESULTS</b> Although at the national level older women and men share similar DFLE, these estimates hide important geographical and social inequalities. Women's health disadvantage completely counterbalances their life expectancy advantage, resulting lower DFLE. Educational inequalities in health are dramatically accentuated compared to those in mortality and the disadvantage in DFLE accumulates over education and region of residence.</p>
+
+
+<p><b>CONCLUSIONS</b> Notable differences in DFLE are found within the country, between genders and educational groups, highlighting the need for better health-policies aimed at reducing inequalities.</p>
+
+
+<p><b>CONTRIBUTION</b> This study provides novel empirical findings on gender, educational and geographical inequalities in DFLE for Italian older adults and explains how age-specific mortality and morbidity contribute to shaping these inequalities. </p>

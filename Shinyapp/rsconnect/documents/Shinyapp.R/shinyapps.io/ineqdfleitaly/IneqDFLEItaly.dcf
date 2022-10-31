@@ -1,0 +1,13 @@
+name: IneqDFLEItaly
+title: IneqDFLEItaly
+username:
+account: ineqdfleitaly
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6297411
+bundleId: 6344920
+url: https://ineqdfleitaly.shinyapps.io/IneqDFLEItaly/
+when: 1664315596.0365
+lastSyncTime: 1664315596.0365
+asMultiple: FALSE
+asStatic: FALSE

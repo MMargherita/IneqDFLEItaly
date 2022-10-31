@@ -1,0 +1,11 @@
+<h4>Here, it is possible to display the following figures:</h4> 
+<ul>
+<li>DFLE -> <i>Disability-Free Life Expectancy at age 65 by gender and level of education in Italian regions</i></li> 
+<li>DFLE with CIs -> <i>Disability-Free Life Expectancy at age 65 by gender and level of education in Italian regions  - Confidence Intervals (CIs) included</i></li>
+<li>LE -> <i>Life Expectancy at age 65 by gender and level of education  in Italian regions</i></li>
+<li>DFLE/LE % -> <i>Ratio (percent) of Disability-Free Life Expectancy and Life Expectancy of  at age 65 by gender and level of education in Italian regions</i></li>
+<li>Map gender gap -> <i>Maps of the gender gap in DFLE at age 65 by level of education in Italy</i></li>
+<li>Decomp. gender gap -> <i>Age-specific mortality and morbidity contributions to the gender gap in DFLE at age 65 in Italian regions</i></li>
+<li>Map educational gap -> <i>Maps of the educational gap in DFLE at age 65 by gender in Italy</i></li>
+<li>Decomp. educational gap -> <i>Age-specific mortality and morbidity contributions to the educational gap in DFLE at age 65 in Italian regions</i></li>
+</ul> 
