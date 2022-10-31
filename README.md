@@ -29,3 +29,7 @@ It contains the following files:
 <h3>Citation and link to the paper</h3>
 Moretti, M. and Strozza, C. (2022). Gender and educational inequalities in disability-free life expectancy among older adults living in Italian regions.  Forthcoming in <i>Demographic Research</i>
 
+
+<h3>Shinyapp link: </h3>
+<p><a href="https://margmoretti.shinyapps.io/IneqDFLEItaly/">margmoretti.shinyapps.io/IneqDFLEItaly</a></p>
+
