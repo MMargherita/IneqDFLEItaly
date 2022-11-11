@@ -5,7 +5,7 @@
 It contains the following files:
 
 <ol>
-  <li>data_info.txt: basic metadata information and how to obtain the data</li>
+  <li>README.txt: basic metadata information: how to obtain the data and how to use them for the analysis </li>
   <li>code_repr.R: R program file to replicate the analysis and the plots</li>
   <li>Shinyapp: folder with code and material to reproduce the Shinyapp</li>
 </ol>
