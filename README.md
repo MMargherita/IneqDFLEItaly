@@ -15,7 +15,7 @@ It contains the following files:
  
 
 
-<h3>Authors:</h3>
+<h3>Authors</h3>
 <a href="https://phd.uniroma1.it/web/MARGHERITA-MORETTI_nP1723038_IT.aspx">Margherita Moretti</a>
 <a href="https://twitter.com/MorettiMarg"></a> Department of Statistical Sciences and Department of Public Health And Infectious Diseases, Sapienza University of Rome &nbsp;&nbsp;  
 
@@ -24,13 +24,13 @@ It contains the following files:
 <a href="https://twitter.com/CosmoStrozza"></a> Interdisciplinary Centre on Population Dynamics, University of Southern Denmark &nbsp;&nbsp;  
 
 
-<h3>Correspondence:</h3>
+<h3>Correspondence</h3>
 <p><a href="mailto:margherita.moretti@uniroma1.it">margherita.moretti@uniroma1.it</a></p>
 
 
 <h3>Citation and link to the paper</h3>
 Moretti, M., & Strozza, C. (2022). Gender and educational inequalities in disability-free life expectancy among older adults living in Italian regions. Demographic Research, 47(29), 919–934. <a href="https://doi.org/10.4054/DemRes.2022.47.29">https://doi.org/10.4054/DemRes.2022.47.29</a>
 
-<h3>Shinyapp link: </h3>
+<h3>Shinyapp link </h3>
 <p><a href="https://margmoretti.shinyapps.io/IneqDFLEItaly/">margmoretti.shinyapps.io/IneqDFLEItaly</a></p>
 
