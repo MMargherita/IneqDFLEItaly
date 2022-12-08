@@ -1,4 +1,6 @@
-<h2><b>Gender and educational inequalities in disability-free life expectancy among older adults living in Italian regions</b></h2>
+<h2><b> <a href="https://www.demographic-research.org/volumes/vol47/29/default.htm">Gender and educational inequalities in disability-free life expectancy among older adults living in Italian regions</a> </b></h2>
+
+
 
 <h4>This repository hosts the code to replicate the analysis and to reproduce the Shinyapp.</h4>
 
@@ -27,8 +29,7 @@ It contains the following files:
 
 
 <h3>Citation and link to the paper</h3>
-Moretti, M. and Strozza, C. (2022). Gender and educational inequalities in disability-free life expectancy among older adults living in Italian regions.  Forthcoming in <i>Demographic Research</i>
-
+Moretti, M., & Strozza, C. (2022). Gender and educational inequalities in disability-free life expectancy among older adults living in Italian regions. Demographic Research, 47(29), 919–934. <a href="https://doi.org/10.4054/DemRes.2022.47.29">https://doi.org/10.4054/DemRes.2022.47.29</a>
 
 <h3>Shinyapp link: </h3>
 <p><a href="https://margmoretti.shinyapps.io/IneqDFLEItaly/">margmoretti.shinyapps.io/IneqDFLEItaly</a></p>
